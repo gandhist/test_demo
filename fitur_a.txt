@@ -2,3 +2,4 @@ ini fitur a
 ini fitur b
 ini fitur b modif
 ini fitur b modi
+ini fitur b mod
